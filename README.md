@@ -1,3 +1,4 @@
+#### THIS IS A TWEAK, AJUSTING ORIGINAL FEATURES. THIS IS NOT THE ORIGINAL MASTERPIECE
 # ElegantFin Theme
 This is a Jellyfin theme inspired from JellySeerr to improve the overall look and experience with various fixes to the UI and behaviour.
 
